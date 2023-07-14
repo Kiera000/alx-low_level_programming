@@ -1,6 +1,6 @@
 #include <studio.h>
 /**
- * main - A programe that prints a line with puts funtion
+ * main - A program that prints a line with puts funtion
  * Return: 0 (success)
  */
 int main(void)
